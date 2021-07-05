@@ -1,0 +1,10 @@
+debug/adminwindow.o
+debug/clientwindow.o
+debug/dog.o
+debug/main.o
+debug/mainwindow.o
+debug/service.o
+debug/validatordog.o
+debug/moc_adminwindow.o
+debug/moc_clientwindow.o
+debug/moc_mainwindow.o

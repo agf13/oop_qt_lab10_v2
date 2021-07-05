@@ -1,0 +1,5 @@
+mata,pisi,90,n-avem
+thai,shitzu,5,laMasa
+thai2,shitzu,5,laMasa
+pufulete,chiuaua,100,pejos
+asdas,asd,1000,10

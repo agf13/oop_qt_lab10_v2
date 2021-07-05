@@ -1,0 +1,10 @@
+release/adminwindow.o
+release/clientwindow.o
+release/dog.o
+release/main.o
+release/mainwindow.o
+release/service.o
+release/validatordog.o
+release/moc_adminwindow.o
+release/moc_clientwindow.o
+release/moc_mainwindow.o
